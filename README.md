@@ -1,4 +1,4 @@
-![]([https://github.com/animeshmahajan18/coding.gif](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/coding.gif))
+![](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/coding.gif)
 
 
 - 👋 Hi, I’m Animesh Mahajan
