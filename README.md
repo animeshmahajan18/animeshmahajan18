@@ -28,11 +28,11 @@
 
 <p align="center">
 </br>
-<a href="https://www.github.com/animeshmahajan8" target="_blank"><img align='center' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt ='novus-afk' width="40" height="40" /></a>
+<a href="https://www.github.com/animeshmahajan8" target="_blank"><img align='center' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt ='animeshmahajan8' width="40" height="40" /></a>
 <a href="https://linkedin.com/in/animeshmahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="animeshmahajan" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCnLXmQ8DoVFCbFWuUb5VVeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="novus-afk" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/novus_afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="40" width="40" /></a>
-<a href="https://medium.com/@novus_afk" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="40" height="40" /></a>
+<a href="https://www.youtube.com/channel/UCxFXKdA_2eNpRuLk6_AoQJQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="animeshmahajan8" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/animeshmahajan8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="40" width="40" /></a>
+<a href="https://medium.com/@animeshmahajan8" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="40" height="40" /></a>
 
 </p>
 </br>
@@ -49,23 +49,22 @@
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="scikit learn" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 </br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=novus-afk&show_icons=true&locale=en&layout=compact" alt="novus-afk" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=animeshmahajan8&show_icons=true&locale=en&layout=compact" alt="animeshmahajan8" /></p>
 </br>
 
 ---
 
 </br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novus-afk&show_icons=true&locale=en" alt="novus-afk" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animeshmahajan8&show_icons=true&locale=en" alt="animeshmahajan8" /></p>
 </br>
 
 ---
 
 </br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novus-afk&" alt="novus-afk" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshmahajan8&" alt="animeshmahajan8" /></p>
 </br>
 
 ---
