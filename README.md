@@ -1,3 +1,6 @@
+![](https://github.com/animeshmahajan18/coding.gif)
+
+
 - 👋 Hi, I’m Animesh Mahajan
 - 👀 I’m interested Photography, AI, ML
 - 🌱 I’m currently learning Computer Vision and Automation
