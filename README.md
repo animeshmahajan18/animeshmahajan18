@@ -22,7 +22,9 @@
 </p>
 </br>
 ---
+
 ![](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/skyline.gif)
+
 ---
 </br>
 <h3 align="center">Connect with me:</h3>
