@@ -21,7 +21,6 @@
 ✉️ You can contact me at <a href="mailto:animeshmahajan8@gmail.com" target = "_blank"><b>animeshmahajan8@gmail.com</b></a>
 </p>
 </br>
----
 
 ![](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/skyline.gif)
 
