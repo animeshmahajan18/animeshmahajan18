@@ -9,7 +9,7 @@
 
 </br>
 <p align="center">
-🌏 I’m based in <b>Mumbai, India</b>
+🌏 I’m based in <b>Bhopal, India</b>
 </p>
 <p align="center">
 🧠 I’m currently working on <b>Machine Learning projects</b>
@@ -21,7 +21,8 @@
 ✉️ You can contact me at <a href="mailto:animeshmahajan8@gmail.com" target = "_blank"><b>animeshmahajan8@gmail.com</b></a>
 </p>
 </br>
-
+---
+![](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/skyline.gif)
 ---
 </br>
 <h3 align="center">Connect with me:</h3>
