@@ -15,7 +15,7 @@
 🧠 I’m currently working on <b>Machine Learning projects</b>
 </p>
 <p align="center">
-💬 Ask me about <b>python, data in the automotive industry</b>
+💬 Ask me about <b>Python, Power BI, Unsupervised Learning</b>
 </p>
 <p align="center">
 ✉️ You can contact me at <a href="mailto:animeshmahajan8@gmail.com" target = "_blank"><b>animeshmahajan8@gmail.com</b></a>
