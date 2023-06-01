@@ -1,4 +1,4 @@
-![](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/coding.gif)
+![placeholder](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/coding.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 <h1 align="center">Hi 👋, My Name is Animesh Mahajan</h1>
 
@@ -22,7 +22,7 @@
 </p>
 </br>
 
-![](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/skyline.gif)
+![placeholder](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/skyline.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ---
 </br>
