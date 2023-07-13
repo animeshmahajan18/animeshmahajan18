@@ -14,7 +14,7 @@
 🌏 I’m based in <b>Bhopal, India</b>
 </p>
 <p align="center">
-🧠 I’m currently working on <b>Machine Learning projects</b>
+🧠 I’m currently working on <b>LLM Models, AI Chatbots</b>
 </p>
 <p align="center">
 💬 Ask me about <b>Python, Power BI, Unsupervised Learning</b>
