@@ -11,7 +11,7 @@
 
 </br>
 <p align="center">
-🌏 I’m based in <b>Bhopal, India</b>
+🌏 I’m based in <b>Mumbai, India</b>
 </p>
 <p align="center">
 🧠 I’m currently working on <b>LLM Models, AI Chatbots</b>
